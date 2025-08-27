@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Interview\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|c:\\interview\\libraryapp\\libraryapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|c:\\interview\\libraryapp\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|c:\\interview\\libraryapp\\libraryapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|c:\\interview\\libraryapp\\libraryapp\\controllers\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|c:\\interview\\libraryapp\\libraryapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8B434F-CF09-4B13-B94B-75D4655CACC7}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Interview\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
+              "ToolTip": "C:\\Interview\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "LibraryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:13:26.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Interview\\LibraryApp\\LibraryApp\\Service.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Service.cs",
+              "ToolTip": "C:\\Interview\\LibraryApp\\LibraryApp\\Service.cs",
+              "RelativeToolTip": "LibraryApp\\Service.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:07:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Interview\\LibraryApp\\LibraryApp\\User.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\User.cs",
+              "ToolTip": "C:\\Interview\\LibraryApp\\LibraryApp\\User.cs",
+              "RelativeToolTip": "LibraryApp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:06:52.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Interview\\LibraryApp\\LibraryApp\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Book.cs",
+              "ToolTip": "C:\\Interview\\LibraryApp\\LibraryApp\\Book.cs",
+              "RelativeToolTip": "LibraryApp\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:06:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Interview\\LibraryApp\\LibraryApp\\Controllers\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Controllers\\Library.cs",
+              "ToolTip": "C:\\Interview\\LibraryApp\\LibraryApp\\Controllers\\Library.cs",
+              "RelativeToolTip": "LibraryApp\\Controllers\\Library.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:05:56.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
